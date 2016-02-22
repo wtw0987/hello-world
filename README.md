@@ -1,2 +1,3 @@
 # hello-world
-Tutorial to GutHub
+Hi! My name is Will!
+I like coding and learning new things about computer science!
